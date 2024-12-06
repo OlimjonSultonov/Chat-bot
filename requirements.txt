@@ -1,6 +1,5 @@
-streamlit==1.25.0  # Eng so'nggi barqaror versiya
-langchain==0.0.318  # LangChain kutubxonasi
-openai==0.28.0  # OpenAI API bilan ishlash uchun
-faiss-cpu==1.7.4  # FAISS (CPU versiyasi)
-PyPDF2==3.0.1  # PDF fayllarni o'qish uchun
-tqdm==4.64.0  # Progress bar uchun (agar kerak bo'lsa)
+langchain >=0.0.301  
+openai
+faiss-cpu
+PyPDF2>=3.0.0 
+tqdm==4.64.0  
