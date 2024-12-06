@@ -1,6 +1,7 @@
+streamlit==1.25.0
+langchain==0.0.318
 langchain-community>=0.0.1
-langchain >=0.0.301  
-openai
-faiss-cpu
-PyPDF2>=3.0.0 
-tqdm==4.64.0  
+openai==0.28.0
+faiss-cpu==1.7.4
+PyPDF2==3.0.1
+tqdm==4.64.0
