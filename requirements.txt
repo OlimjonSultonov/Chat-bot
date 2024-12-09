@@ -4,3 +4,4 @@ langchain
 faiss-cpu
 PyPDF2
 tqdm
+typing
