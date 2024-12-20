@@ -25,5 +25,3 @@ The chatbot may face challenges with very large PDFs or highly complex queries t
 
 ## Future Improvements
 Planned enhancements include support for multiple PDF uploads, local storage for processed files, and integration with newer OpenAI models. Additional features like advanced multilingual support and customizable UI themes are also under consideration.
-
-## Folder Structure
